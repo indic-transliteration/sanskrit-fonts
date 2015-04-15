@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.4.15)  15 APR 2015 15:17
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.4.15)  15 APR 2015 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,12 +1000,12 @@ l.39 ...ipt=Devanagari,Language=Default]{Sahadeva}
 . fontspec info: "defining-font"
 . 
 . Font family 'Sahadeva(0)' created for font 'Sahadeva' with options
-. [Path=../fonts/ttf-devanagari-fonts/,Script=Devanagari,Language=Default].
+. [Path=ttf-devanagari-fonts/,Script=Devanagari,Language=Default].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"[../fonts/ttf-devanagari-fonts/Sahadeva]/ICU:"
+. <->"[ttf-devanagari-fonts/Sahadeva]/ICU:"
 .................................................
 \g_fontspec_family_Nakula_int=\count184
 .................................................
@@ -1330,8 +1330,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--63
 
  []
 
-! Font EU1/Sahadeva(0)/m/n/12=[../fonts/ttf-devanagari-fonts/Sahadeva]/ICU: at 
-12.0pt not loadable: Metric (TFM) file or installed font not found.
+! Font EU1/Sahadeva(0)/m/n/12=[ttf-devanagari-fonts/Sahadeva]/ICU: at 12.0pt no
+t loadable: Metric (TFM) file or installed font not found.
 <to be read again> 
                    relax 
 l.78 \sktstdeva{अ}{अ}
@@ -2497,24 +2497,15 @@ Missing character: There is no ह in font nullfont!
 Missing character: There is no ् in font nullfont!
 Missing character: There is no व in font nullfont!
 
-[18]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 0.1 on input line 382.
-
-[19]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-(./test_dev_titus.aux)
+[18] [19] (./test_dev_titus.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  17008 strings out of 493918
- 331502 string characters out of 6150563
- 428416 words of memory out of 5000000
+ 331484 string characters out of 6150563
+ 428367 words of memory out of 5000000
  20164 multiletter control sequences out of 15000+600000
  4470 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
