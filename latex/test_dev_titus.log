@@ -1,0 +1,2523 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.4.15)  15 APR 2015 15:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**test_dev_titus.tex
+(./test_dev_titus.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count82
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count83
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count84
+\c@part=\count85
+\c@chapter=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count92
+\c@@ppsaveapp=\count93
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count94
+\c@poemline=\count95
+\c@modulo@vs=\count96
+\c@memfvsline=\count97
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count98
+\c@chrsinstr=\count99
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count100
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count101
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count106
+\@linestogo=\count107
+\@cellstogo=\count108
+\@cellsincolumn=\count109
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count110
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count111
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7492.
+LaTeX Info: Redefining \emph on input line 7500.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count112
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count113
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count114
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count115
+\c@pagenoteshadow=\count116
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count117
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count118
+\c@bvlinectr=\count119
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count120
+LaTeX Info: Redefining \: on input line 11958.
+LaTeX Info: Redefining \! on input line 11960.
+\c@ism@mctr=\count121
+\c@xsm@mctr=\count122
+\c@csm@mctr=\count123
+\c@ksm@mctr=\count124
+\c@xksm@mctr=\count125
+\c@cksm@mctr=\count126
+\c@msm@mctr=\count127
+\c@xmsm@mctr=\count128
+\c@cmsm@mctr=\count129
+\c@bsm@mctr=\count130
+\c@workm@mctr=\count131
+\c@sheetsequence=\count132
+\c@lastsheet=\count133
+\c@lastpage=\count134
+\c@figure=\count135
+\c@lofdepth=\count136
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count137
+\c@lotdepth=\count138
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
+)
+Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
+)
+Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2014/01/04 v4642 L3 Basic definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2014/01/04 v4642 L3 Argument expansion
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/12/27 v4625 L3 Token lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/08/02 v4583 L3 Integers
+\c_max_int=\count139
+\l_tmpa_int=\count140
+\l_tmpb_int=\count141
+\g_tmpa_int=\count142
+\g_tmpb_int=\count143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2013/12/14 v4623 L3 Quarks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2014/01/04 v4642 L3 Control structures
+\g__prg_map_int=\count144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/12/14 v4623 L3 Property lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/07/28 v4581 L3 Messages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/10/13 v4596 L3 File and I/O operations
+\l_iow_line_count_int=\count145
+\l__iow_target_count_int=\count146
+\l__iow_current_line_int=\count147
+\l__iow_current_word_int=\count148
+\l__iow_current_indentation_int=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
+\c_zero_dim=\dimen147
+\c_max_dim=\dimen148
+\l_tmpa_dim=\dimen149
+\l_tmpb_dim=\dimen150
+\g_tmpa_dim=\dimen151
+\g_tmpb_dim=\dimen152
+\c_zero_skip=\skip185
+\c_max_skip=\skip186
+\l_tmpa_skip=\skip187
+\l_tmpb_skip=\skip188
+\g_tmpa_skip=\skip189
+\g_tmpb_skip=\skip190
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count150
+\l_keys_choice_int=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2014/01/04 v4642 L3 Floating points
+\c__fp_leading_shift_int=\count152
+\c__fp_middle_shift_int=\count153
+\c__fp_trailing_shift_int=\count154
+\c__fp_big_leading_shift_int=\count155
+\c__fp_big_middle_shift_int=\count156
+\c__fp_big_trailing_shift_int=\count157
+\c__fp_Bigg_leading_shift_int=\count158
+\c__fp_Bigg_middle_shift_int=\count159
+\c__fp_Bigg_trailing_shift_int=\count160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/07/28 v4581 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen153
+\l__coffin_offset_x_dim=\dimen154
+\l__coffin_offset_y_dim=\dimen155
+\l__coffin_x_dim=\dimen156
+\l__coffin_y_dim=\dimen157
+\l__coffin_x_prime_dim=\dimen158
+\l__coffin_y_prime_dim=\dimen159
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen160
+\l__coffin_display_x_dim=\dimen161
+\l__coffin_display_y_dim=\dimen162
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count161
+\g__cctab_stack_int=\count162
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen163
+\l__box_bottom_dim=\dimen164
+\l__box_left_dim=\dimen165
+\l__box_right_dim=\dimen166
+\l__box_top_new_dim=\dimen167
+\l__box_bottom_new_dim=\dimen168
+\l__box_left_new_dim=\dimen169
+\l__box_right_new_dim=\dimen170
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen171
+\l__coffin_left_corner_dim=\dimen172
+\l__coffin_right_corner_dim=\dimen173
+\l__coffin_bottom_corner_dim=\dimen174
+\l__coffin_top_corner_dim=\dimen175
+\l__coffin_scaled_total_height_dim=\dimen176
+\l__coffin_scaled_width_dim=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count163
+\l__xparse_m_args_int=\count164
+\l__xparse_mandatory_args_int=\count165
+\l__xparse_processor_int=\count166
+\l__xparse_v_nesting_int=\count167
+)
+\l_fontspec_script_int=\count168
+\l_fontspec_language_int=\count169
+\l_fontspec_strnum_int=\count170
+\l_fontspec_tmpa_dim=\dimen178
+\l_fontspec_tmpb_dim=\dimen179
+\l_fontspec_tmpc_dim=\dimen180
+Variant \tl_gset:cV already defined; not changing it on line 69
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLa
+TeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: Redefining \textsubscript on input line 424.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 30.
+LaTeX Info: Redefining \- on input line 33.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 128.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 132.
+.................................................
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count171
+\tipasavetokens=\toks22
+\tipachecktokens=\toks23
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 46.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 56.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 69.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 77.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 96.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 100.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'om' on line
+. 108.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 144.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 156.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 172.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 201.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 203.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 208.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 235.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 256.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 582
+Variant \prop_gput:cnx already defined; not changing it on line 583
+\l_fontspec_tmp_int=\count172
+LaTeX Info: Redefining \itshape on input line 2087.
+LaTeX Info: Redefining \slshape on input line 2092.
+LaTeX Info: Redefining \scshape on input line 2097.
+LaTeX Info: Redefining \upshape on input line 2102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip191
+\LTright=\skip192
+\LTpre=\skip193
+\LTpost=\skip194
+\LTchunksize=\count173
+\LTcapwidth=\dimen183
+\LT@head=\box44
+\LT@firsthead=\box45
+\LT@foot=\box46
+\LT@lastfoot=\box47
+\LT@cols=\count174
+\LT@rows=\count175
+\c@LT@tables=\count176
+\c@LT@chunks=\count177
+\LT@p@ftn=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks26
+)
+\g__file_internal_ior=\read2
+\g_fontspec_family_FreeSerif_int=\count181
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(0)' created for font 'FreeSerif' with options
+. [Script=Latin].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"FreeSerif/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=latn;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(0)' created for font 'FreeSerif' with options
+. [Script=Latin].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(1)' created for font 'FreeSerif' with options
+. [Script=Devanagari, UprightFeatures={Language=Sanskrit},
+. BoldFeatures={Language=Sanskrit}, ].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=SAN;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=SAN;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=deva;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=deva;language=DFLT;"
+.................................................
+
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Historic' (+hlig) not available for font
+* 'FreeSerif' with script 'Devanagari' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Historic' (+hlig) not available for font
+* 'FreeSerif/B' with script 'Devanagari' and language 'Default'.
+*************************************************
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(2)' created for font 'FreeSerif' with options
+. [Script=Devanagari,Language=Default,
+. UprightFeatures={RawFeature={+hlig},Ligatures=Historic},
+. BoldFeatures={Ligatures=Historic}, ].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=DFLT;+hlig;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=DFLT;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=deva;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=deva;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(3)' created for font 'FreeSerif' with options
+. [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=DFLT;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=DFLT;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=deva;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=deva;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(4)' created for font 'FreeSerif' with options [
+. UprightFeatures={Script=Devanagari,Language=Default,StylisticSet={02}},
+. BoldFeatures={Script=Devanagari,Language=Default,StylisticSet=2} ].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=DFLT;+ss02;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=DFLT;+ss02;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=latn;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(5)' created for font 'FreeSerif' with options [
+. UprightFeatures={Script=Devanagari,Language=Default,StylisticSet=3},
+. BoldFeatures={Script=Devanagari,Language=Default,StylisticSet=3} ].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=DFLT;+ss03;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=DFLT;+ss03;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=latn;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FreeSerif(6)' created for font 'FreeSerif' with options [
+. UprightFeatures={Script=Devanagari,Language=Default,StylisticSet=4},
+. BoldFeatures={Script=Devanagari,Language=Default,StylisticSet=4} ].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"FreeSerif/ICU:script=deva;language=DFLT;+ss04;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"FreeSerif/B/ICU:script=deva;language=DFLT;+ss04;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"FreeSerif/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"FreeSerif/BI/ICU:script=latn;language=DFLT;"
+.................................................
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Sanskrit 2003 does not contain any OpenType `Script' information.
+.................................................
+\g_fontspec_family_Sanskrit 2003_int=\count182
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Sanskrit 2003/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Sanskrit 2003/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Sanskrit 2003/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Sanskrit2003(0)' created for font 'Sanskrit 2003' with options
+. [RawFeature={Conjuncts=Additional Conjuncts}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Sanskrit 2003/ICU:Conjuncts=Additional Conjuncts;"
+.................................................
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "Sahadeva" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.39 ...ipt=Devanagari,Language=Default]{Sahadeva}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'Sahadeva' does not contain script 'Devanagari'.
+*************************************************
+\g_fontspec_family_Sahadeva_int=\count183
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "Sahadeva" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.39 ...ipt=Devanagari,Language=Default]{Sahadeva}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Sahadeva(0)' created for font 'Sahadeva' with options
+. [Path=../fonts/ttf-devanagari-fonts/,Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"[../fonts/ttf-devanagari-fonts/Sahadeva]/ICU:"
+.................................................
+\g_fontspec_family_Nakula_int=\count184
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Nakula/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Nakula/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Nakula/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Nakula(0)' created for font 'Nakula' with options
+. [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Nakula/ICU:script=deva;language=DFLT;"
+.................................................
+\g_fontspec_family_Chandas_int=\count185
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Chandas/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Chandas/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Chandas/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Chandas(0)' created for font 'Chandas' with options
+. [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Chandas/ICU:script=deva;language=DFLT;"
+.................................................
+\g_fontspec_family_Uttara_int=\count186
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Uttara/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Uttara/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Uttara/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Uttara(0)' created for font 'Uttara' with options
+. [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Uttara/ICU:script=deva;language=DFLT;"
+.................................................
+\g_fontspec_family_Siddhanta_int=\count187
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Siddhanta/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Siddhanta/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Siddhanta/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Siddhanta(0)' created for font 'Siddhanta' with options
+. [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Siddhanta/ICU:script=deva;language=DFLT;"
+.................................................
+\g_fontspec_family_Lohit Devanagari_int=\count188
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Lohit Devanagari/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Lohit Devanagari/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Lohit Devanagari/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LohitDevanagari(0)' created for font 'Lohit Devanagari' with
+. options [Script=Devanagari,Language=Default].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Lohit Devanagari/ICU:script=deva;language=DFLT;"
+.................................................
+(./test_dev_titus.aux
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+
+LaTeX Warning: Label `styles_deva' multiply defined.
+
+)
+\openout1 = `test_dev_titus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 54.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 54.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 54.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 54.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 54.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 54.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 54.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 54.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 54.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 54.
+LaTeX Font Info:    Redeclaring math accent \check on input line 54.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 54.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 54.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 54.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 54.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 54.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/FreeSerif(0)/m/n on input line 54.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 54.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/FreeSerif(0)/m/n on input line 54.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/FreeSerif(0)/m/n --> EU1/FreeSerif(0)/m/n on input 
+line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/FreeSerif(0)/m/n --> EU1/FreeSerif(0)/m/n on input 
+line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/FreeSerif(0)/m/it on input line 54
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/FreeSerif(0)/bx/n on input line 54
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 54.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/FreeSerif(0)/m/n --> EU1/FreeSerif(0)/bx/n on input
+ line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/FreeSerif(0)/m/n --> EU1/FreeSerif(0)/bx/n on input
+ line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/FreeSerif(0)/bx/it on input line 
+54.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 54.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 54.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape twoside 
+* h-part:(L,W,R)=(42.67912pt, 759.6886pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=759.6886pt
+* \textheight=512.14963pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-63.96466pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=92.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--63
+
+ []
+
+! Font EU1/Sahadeva(0)/m/n/12=[../fonts/ttf-devanagari-fonts/Sahadeva]/ICU: at 
+12.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.78 \sktstdeva{अ}{अ}
+                         
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no अ in font nullfont!
+Unknown feature `Conjuncts=Additional Conjuncts' in font `Sanskrit 2003'.
+Missing character: There is no ओ in font nullfont!
+Missing character: There is no औ in font nullfont!
+Missing character: There is no झ in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+
+Underfull \vbox (badness 10000) detected at line 88
+ []
+
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+[1
+
+]
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+ [2]
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+ [3]
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+ [4]
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no झ in font nullfont!
+ [5]
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no छ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no झ in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+ [6]
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+ [7]
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+ [8]
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+ [9]
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+ [10]
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+ [11]
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+ [12]
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no घ in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+ [13]
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ग in font nullfont!
+ [14]
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+ [15]
+Missing character: There is no श in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ट in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ठ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+ [16]
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ख in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no थ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+ [17]
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no फ in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+
+[18]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 0.1 on input line 382.
+
+[19]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+(./test_dev_titus.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17008 strings out of 493918
+ 331502 string characters out of 6150563
+ 428416 words of memory out of 5000000
+ 20164 multiletter control sequences out of 15000+600000
+ 4470 words of font info for 45 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 52i,10n,53p,10412b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on test_dev_titus.pdf (19 pages).
