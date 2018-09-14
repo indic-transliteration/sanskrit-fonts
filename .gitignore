@@ -4,6 +4,7 @@
 packages/releases
 packages/pkg
 packages/src
+packages/aur
 packages/*.tar.gz
 packages/*.tar.xz
 
