@@ -1,1 +1,5 @@
 *.iml
+
+packages/releases
+packages/pkg
+packages/src
