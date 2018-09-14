@@ -1,5 +1,9 @@
 *.iml
 
+# Arch linux packaging.
 packages/releases
 packages/pkg
 packages/src
+packages/*.tar.gz
+packages/*.tar.xz
+

@@ -5,5 +5,5 @@ A repo to deploy and test various Sanskrit fonts.
 - Update packages/PKGBUILD.
   - Fix the version numbers.
   - Get the sha256sum by running `sha256sum packages/releases/sanskrit-fonts-1.0.tar.gz`
-- Verify package by running `pkgbuild` in packages directory.
+- Verify package by running `makepkg` in packages directory.
 - Update AUR repository.
