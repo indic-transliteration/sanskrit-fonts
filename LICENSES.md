@@ -9,5 +9,3 @@
 ## CDAC fonts
 - License: Unknown, but "freeware", based on terms and conditions upon download from government websites.
 - Source: MEITY, TDIL, CDAC are Indian Government agencies.
-
-## Sanskrit
