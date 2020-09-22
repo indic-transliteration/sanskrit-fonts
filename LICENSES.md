@@ -11,5 +11,6 @@
 - Source: MEITY, TDIL, CDAC are Indian Government agencies.
 
 ## AdishilA fonts
+- Currently in the non-distrubuted folder because of upadhmAnIya bug.
 - License: "You are welcome to use the Adishila fonts in your products & projects(books, PDFs, website, apps etc) – print or digital, commercial or otherwise. However, you are not allowed to sell, rent, or carry out any related monetary transactions, host or distribute them." Like http://creativecommons.org/licenses/by-sa/4.0/ .
 - Consider donating to them https://adishila.com/fonts/ . 
