@@ -23,5 +23,6 @@ def update_noto_fonts(src_dir):
 
 
 if __name__ == '__main__':
+  logging.info("Please ensure that you've pulled the latest files at %s", NOTO_TTF_DIR)
   # update_noto_fonts(src_dir=HUGO_THEME_FONT_DIR)
   update_noto_fonts(src_dir=INDIC_FONT_REPO_DIR)
