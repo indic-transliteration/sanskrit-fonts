@@ -10,6 +10,10 @@
 - License: Unknown, but "freeware", based on terms and conditions upon download from government websites.
 - Source: MEITY, TDIL, CDAC are Indian Government agencies.
 
+## Murti fonts
+- License and source: https://murtylibrary.com/mcli-fonts.php#agreed
+- non-commercial use allowed.
+
 ## AdishilA fonts
 - Currently in the non-distrubuted folder because of upadhmAnIya bug.
 - License: "You are welcome to use the Adishila fonts in your products & projects(books, PDFs, website, apps etc) – print or digital, commercial or otherwise. However, you are not allowed to sell, rent, or carry out any related monetary transactions, host or distribute them." Like http://creativecommons.org/licenses/by-sa/4.0/ .
