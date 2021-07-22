@@ -12,7 +12,7 @@ logging.basicConfig(
 
 NOTO_TTF_DIR = "/home/vvasuki/misc-git/noto-fonts/hinted/ttf/"
 HUGO_THEME_FONT_DIR = "/home/vvasuki/vvasuki-git/kannaDa/themes/sanskrit-documentation-theme-hugo/static/fonts/"
-INDIC_FONT_REPO_DIR = "/home/vvasuki/sanskrit-coders/sanskrit-fonts/fonts"
+INDIC_FONT_REPO_DIR = "/home/vvasuki/indic-transliteration/sanskrit-fonts/fonts"
 
 def update_noto_fonts(src_dir):
   files = glob.glob(os.path.join(src_dir, "**/" + "Noto*.ttf"))

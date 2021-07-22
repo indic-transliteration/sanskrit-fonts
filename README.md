@@ -8,7 +8,7 @@ A repo to deploy and test various Sanskrit fonts.
 
 ## Other Linux Distros
 ```sh
-$ git clone https://github.com/sanskrit-coders/sanskrit-fonts.git
+$ git clone https://github.com/indic-transliteration/sanskrit-fonts.git
 $ sudo mkdir -p /usr/share/fonts/sanskrit-fonts/
 $ sudo cp -rf "sanskrit-fonts/fonts"/* "/usr/share/fonts/sanskrit-fonts/"
 $ fc-cache -f -v # clear and regenerate font cache
