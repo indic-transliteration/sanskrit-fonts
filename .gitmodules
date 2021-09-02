@@ -1,0 +1,3 @@
+[submodule "non-distributed-fonts/mixed/pedanticIndic"]
+	path = non-distributed-fonts/mixed/pedanticIndic
+	url = https://github.com/chchch/PedanticIndic.git
